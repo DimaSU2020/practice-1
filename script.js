@@ -20,3 +20,4 @@ console.log(calc("substract", 5, 5));
 console.log(calc("nothing", 5, 5));
 console.log(calc("nothing", 5, 5));
 console.log(calc("nothing", 5, 5));
+console.log(calc("nothing", 5, 5));
